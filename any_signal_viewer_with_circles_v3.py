@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+### By Sha | 2019-20 ###
 
 import matplotlib.pyplot as plt
 from scipy.integrate import quad
