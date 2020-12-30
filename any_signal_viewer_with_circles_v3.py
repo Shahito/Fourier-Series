@@ -1,4 +1,5 @@
-### By Sha | 2019-20 ###
+### By Sha ###
+# | My thanks to Tamara Richardson for her help | #
 
 import matplotlib.pyplot as plt
 from scipy.integrate import quad
