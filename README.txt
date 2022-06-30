@@ -5,7 +5,7 @@ INSTALLATIONS :
 	- Python 3.7.x
 		(Pour Windows : https://docs.python.org/fr/3.7/using/windows.html)
 		(Pour MacOS : https://docs.python.org/fr/3.7/using/mac.html)
-		(Pour Unix : https://docs.python.org/fr/3.7/using/unix.html)
+		(Pour Linux : https://docs.python.org/fr/3.7/using/unix.html)
 	
 	Libraries :
 	Une fois Python3.7 (Attention, la version est importante !), on lance la commande :
