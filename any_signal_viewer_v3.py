@@ -1,5 +1,4 @@
 ### By Sha ###
-# | My thanks to Tamara Richardson for her help | #
 
 import matplotlib.pyplot as plt
 from scipy.integrate import quad
@@ -166,3 +165,6 @@ try:
 except KeyboardInterrupt:
 	print("Stopped !")
 	exit(0)
+
+
+# 42795f536861 #
